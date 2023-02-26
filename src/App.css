@@ -1,5 +1,15 @@
 .App {
   text-align: center;
+  background-image: url(https://techcrunch.com/wp-content/uploads/2019/06/GettyImages-655146956.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin-right: 100px;
+  margin-left: 100px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  
+
 }
 
 .App-logo {

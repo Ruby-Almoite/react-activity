@@ -1,0 +1,140 @@
+
+@media only screen and (min-width: 600px)  {
+   
+
+.mysample {
+    background-color :lightblue;
+}
+
+main {
+    height: 100%;
+    color:aliceblue;
+}
+
+h2 {
+  font-size: xx-large;
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h3{  
+  font-size: x-large;
+        margin-left: 50px;
+        margin-right: 50px;   
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+  }
+  
+  .box {
+    width: 400px;
+    margin: 50px auto;
+    background: #00bfb6;
+    padding: 20px;
+    text-align: center;
+    font-weight: 900;
+    color: #fff;
+    font-family: arial;
+    position: relative;
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  
+
+  .box2 {
+    width: 200px;
+    margin: 50px auto;
+    background: #cae3e1;
+    padding: 20px;
+    text-align: center;
+    font-weight: 900;
+    color: #1a706b;
+    font-family: arial;
+    position: relative;
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+
+  .button-box {
+    width: 200px;
+    margin: 30px auto;
+    background: #cae3e1;
+    padding: 20px;
+    text-align: center;
+    font-weight: 900;
+    color: #1a706b;
+    font-family: arial;
+    position: relative;
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+
+  .sb1:before {
+    content: "";
+    width: 0px;
+    height: 0px;
+    position: absolute;
+    border-left: 10px solid #00bfb6;
+    border-right: 10px solid transparent;
+    border-top: 10px solid #00bfb6;
+    border-bottom: 10px solid transparent;
+    right: -19px;
+    top: 6px;
+  }
+
+  .sbb1:before {
+    content: "";
+    width: 0px;
+    height: 0px;
+    position: absolute;
+    border-left: 10px solid transparent;
+    border-right: 10px solid #cae3e1;
+    border-top: 10px solid #cae3e1;
+    border-bottom: 10px solid transparent;
+    left: -19px;
+    top: 6px;
+  }
+  
+  
+  .sb2:before {
+    content: "";
+    width: 0px;
+    height: 0px;
+    position: absolute;
+    border-left: 10px solid transparent;
+    border-right: 10px solid #00bfb6;
+    border-top: 10px solid #00bfb6;
+    border-bottom: 10px solid transparent;
+    left: -19px;
+    top: 6px;
+  }
+  
+
+  
+  /* youtube link */
+  .youtube{
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    width: 160px;
+    text-align: center;
+    padding: 15px 10px;
+    background: #bb0000;
+    border-radius: 5px;
+  }
+  
+  .youtube a{
+    text-decoration: none;
+    color: #fff;
+    text-transform: capitalize;
+    letter-spacing: 1px;
+  }
+
+
+   
+  }

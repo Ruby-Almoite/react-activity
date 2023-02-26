@@ -1,0 +1,43 @@
+@media only screen and (min-width: 600px)  {
+
+
+footer {
+        background-color: #05615d;
+        color:aliceblue;
+        height: 150px;
+        text-align: center;
+        vertical-align: middle;
+        padding: 20px;
+        font-size: larger;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+li :hover {
+        color:white;
+        text-decoration: none;
+}
+
+li {
+        text-decoration: none;
+}
+
+ul {
+        text-decoration: none;
+        margin-top: 20px;
+}
+
+
+.nav {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+
+}
+
+a {
+        text-decoration: none;
+        color:beige
+}
+
+
+}

@@ -1,0 +1,15 @@
+@media only screen and (min-width: 600px)  {
+
+.header {
+    background-color: #05615d;
+    color:aliceblue;
+    height: 120px;
+    font-size: x-large;
+    text-align: center;
+    vertical-align: middle;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+}
